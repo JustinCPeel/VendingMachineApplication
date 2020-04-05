@@ -1,6 +1,0 @@
-C:\Training\VendingMachine\VendingMachine_test\VendingMachine_test\bin\Debug\VendingMachine_test.exe.config
-C:\Training\VendingMachine\VendingMachine_test\VendingMachine_test\bin\Debug\VendingMachine_test.exe
-C:\Training\VendingMachine\VendingMachine_test\VendingMachine_test\bin\Debug\VendingMachine_test.pdb
-C:\Training\VendingMachine\VendingMachine_test\VendingMachine_test\obj\Debug\VendingMachine_test.csprojAssemblyReference.cache
-C:\Training\VendingMachine\VendingMachine_test\VendingMachine_test\obj\Debug\VendingMachine_test.exe
-C:\Training\VendingMachine\VendingMachine_test\VendingMachine_test\obj\Debug\VendingMachine_test.pdb

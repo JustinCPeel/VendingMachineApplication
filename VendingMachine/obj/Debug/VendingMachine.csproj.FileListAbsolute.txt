@@ -1,0 +1,6 @@
+C:\Git Projects\VendingMachineApplication\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Git Projects\VendingMachineApplication\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Git Projects\VendingMachineApplication\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Git Projects\VendingMachineApplication\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Git Projects\VendingMachineApplication\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Git Projects\VendingMachineApplication\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
